@@ -10,7 +10,7 @@ body {
 
 
 
-.Cod {
+.Cod1 {
     float: left;
     color: white;
     padding-top: 10px;
@@ -77,12 +77,10 @@ body {
 
 .grid-container button:hover {
     background-color: rgb(3, 1, 1);
-    color: aliceblue;
+    color: white;
 }
 
-body {
-    margin: auo;
-}
+
 
 nav {
     display: block;
@@ -116,9 +114,9 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(59, 59, 59);
+    background-color: rgb(43, 43, 43);
     padding-right: 0px;
-
+    
 }
 
 li:hover {
@@ -143,7 +141,7 @@ li a {
 }
 
 a:link {
-    color: rgb(255, 255, 255);
+    color: white;
     text-decoration: none;
 }
 
@@ -167,3 +165,20 @@ ul li ul{
    
     margin: 0px 0px 0px -53px;   
 }
+h1{
+    font-family: Cinzel, serif;
+}
+button{
+    font-family: 'Fauna One', serif;
+}
+.u{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+}
+.p{
+    margin-top: 800px;
+    color: rgb(83, 82, 82);
+}
+    
